@@ -10,8 +10,18 @@ To write a Python program that calculates the **sum of all elements** in a list.
 
 ## 🧾 Program
 
-Add code here
+```
+lst=eval(input())
+total = 0
+for num in lst:
+    if num%10==3:
+        total += num
+print("Sum=", total)
+```
 
 ## Output
+<img width="825" height="829" alt="image" src="https://github.com/user-attachments/assets/d2aec448-df3e-451a-885e-40d5ff6dae4a" />
+
 
 ## Result
+Thus,the given python program has been executed successfully.
