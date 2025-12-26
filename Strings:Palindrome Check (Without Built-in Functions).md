@@ -24,7 +24,8 @@ palindrome(s)
 
 ## Output
 <img width="1029" height="864" alt="image" src="https://github.com/user-attachments/assets/1494bbb6-12dd-482c-86c9-906616146df8" />
-## Result
-Thus,the given python program has been executed successfully.
+
+
 
 ## Result
+Thus,the given python program has been executed successfully.
